@@ -18,6 +18,6 @@ class AbcRest{
 	@RequestMapping("/")
 	public String met()
 	{
-		return "This is only to Testtttttttttt";
+		return "This is only toooooo Testtttttttttt";
 	}
 }
